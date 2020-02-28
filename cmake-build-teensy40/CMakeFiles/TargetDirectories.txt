@@ -1,0 +1,15 @@
+/Users/minghaozhu/CLionProjects/teensyMicroMouse/cmake-build-teensy40/CMakeFiles/edit_cache.dir
+/Users/minghaozhu/CLionProjects/teensyMicroMouse/cmake-build-teensy40/CMakeFiles/PLATFORMIO_REBUILD_PROJECT_INDEX.dir
+/Users/minghaozhu/CLionProjects/teensyMicroMouse/cmake-build-teensy40/CMakeFiles/PLATFORMIO_PROGRAM.dir
+/Users/minghaozhu/CLionProjects/teensyMicroMouse/cmake-build-teensy40/CMakeFiles/PLATFORMIO_UPDATE_ALL.dir
+/Users/minghaozhu/CLionProjects/teensyMicroMouse/cmake-build-teensy40/CMakeFiles/PLATFORMIO_UPLOADFS.dir
+/Users/minghaozhu/CLionProjects/teensyMicroMouse/cmake-build-teensy40/CMakeFiles/PLATFORMIO_TEST.dir
+/Users/minghaozhu/CLionProjects/teensyMicroMouse/cmake-build-teensy40/CMakeFiles/PLATFORMIO_UPLOAD.dir
+/Users/minghaozhu/CLionProjects/teensyMicroMouse/cmake-build-teensy40/CMakeFiles/Z_DUMMY_TARGET.dir
+/Users/minghaozhu/CLionProjects/teensyMicroMouse/cmake-build-teensy40/CMakeFiles/PLATFORMIO_BUILD_DEBUG.dir
+/Users/minghaozhu/CLionProjects/teensyMicroMouse/cmake-build-teensy40/CMakeFiles/PLATFORMIO_CLEAN.dir
+/Users/minghaozhu/CLionProjects/teensyMicroMouse/cmake-build-teensy40/CMakeFiles/rebuild_cache.dir
+/Users/minghaozhu/CLionProjects/teensyMicroMouse/cmake-build-teensy40/CMakeFiles/PLATFORMIO_DEVICE_LIST.dir
+/Users/minghaozhu/CLionProjects/teensyMicroMouse/cmake-build-teensy40/CMakeFiles/PLATFORMIO_BUILD.dir
+/Users/minghaozhu/CLionProjects/teensyMicroMouse/cmake-build-teensy40/CMakeFiles/PLATFORMIO_BUILD_VERBOSE.dir
+/Users/minghaozhu/CLionProjects/teensyMicroMouse/cmake-build-teensy40/CMakeFiles/PLATFORMIO_MONITOR.dir

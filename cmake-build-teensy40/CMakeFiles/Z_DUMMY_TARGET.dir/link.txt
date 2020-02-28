@@ -1,0 +1,1 @@
+/Users/minghaozhu/.platformio/packages/toolchain-gccarmnoneeabi/bin/arm-none-eabi-g++   -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/Z_DUMMY_TARGET.dir/src/main.cpp.o  -o Z_DUMMY_TARGET 
