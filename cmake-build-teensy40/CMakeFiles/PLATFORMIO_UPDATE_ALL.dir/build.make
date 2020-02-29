@@ -43,10 +43,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/minghaozhu/CLionProjects/teensyMicroMouse
+CMAKE_SOURCE_DIR = /Users/minghao/CLionProjects/teensyMicroMouse
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/minghaozhu/CLionProjects/teensyMicroMouse/cmake-build-teensy40
+CMAKE_BINARY_DIR = /Users/minghao/CLionProjects/teensyMicroMouse/cmake-build-teensy40
 
 # Utility rule file for PLATFORMIO_UPDATE_ALL.
 
@@ -54,7 +54,7 @@ CMAKE_BINARY_DIR = /Users/minghaozhu/CLionProjects/teensyMicroMouse/cmake-build-
 include CMakeFiles/PLATFORMIO_UPDATE_ALL.dir/progress.make
 
 CMakeFiles/PLATFORMIO_UPDATE_ALL:
-	cd /Users/minghaozhu/CLionProjects/teensyMicroMouse && /usr/local/bin/pio -f -c clion update
+	cd /Users/minghao/CLionProjects/teensyMicroMouse && /usr/local/bin/pio -f -c clion update
 
 PLATFORMIO_UPDATE_ALL: CMakeFiles/PLATFORMIO_UPDATE_ALL
 PLATFORMIO_UPDATE_ALL: CMakeFiles/PLATFORMIO_UPDATE_ALL.dir/build.make
@@ -71,6 +71,6 @@ CMakeFiles/PLATFORMIO_UPDATE_ALL.dir/clean:
 .PHONY : CMakeFiles/PLATFORMIO_UPDATE_ALL.dir/clean
 
 CMakeFiles/PLATFORMIO_UPDATE_ALL.dir/depend:
-	cd /Users/minghaozhu/CLionProjects/teensyMicroMouse/cmake-build-teensy40 && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/minghaozhu/CLionProjects/teensyMicroMouse /Users/minghaozhu/CLionProjects/teensyMicroMouse /Users/minghaozhu/CLionProjects/teensyMicroMouse/cmake-build-teensy40 /Users/minghaozhu/CLionProjects/teensyMicroMouse/cmake-build-teensy40 /Users/minghaozhu/CLionProjects/teensyMicroMouse/cmake-build-teensy40/CMakeFiles/PLATFORMIO_UPDATE_ALL.dir/DependInfo.cmake --color=$(COLOR)
+	cd /Users/minghao/CLionProjects/teensyMicroMouse/cmake-build-teensy40 && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/minghao/CLionProjects/teensyMicroMouse /Users/minghao/CLionProjects/teensyMicroMouse /Users/minghao/CLionProjects/teensyMicroMouse/cmake-build-teensy40 /Users/minghao/CLionProjects/teensyMicroMouse/cmake-build-teensy40 /Users/minghao/CLionProjects/teensyMicroMouse/cmake-build-teensy40/CMakeFiles/PLATFORMIO_UPDATE_ALL.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/PLATFORMIO_UPDATE_ALL.dir/depend
 

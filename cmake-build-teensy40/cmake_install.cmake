@@ -1,4 +1,4 @@
-# Install script for directory: /Users/minghaozhu/CLionProjects/teensyMicroMouse
+# Install script for directory: /Users/minghao/CLionProjects/teensyMicroMouse
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/minghaozhu/CLionProjects/teensyMicroMouse/cmake-build-teensy40/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/minghao/CLionProjects/teensyMicroMouse/cmake-build-teensy40/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
